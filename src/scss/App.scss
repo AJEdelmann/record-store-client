@@ -18,7 +18,6 @@ body,
 }
 
 /***** GENERAL REUSABLE CLASSES *****/
-
 #root {
   a {
     color: white;
@@ -86,7 +85,6 @@ body,
 }
 
 /************************************/
-
 #app {
   #navigation {
     padding: 20px;
@@ -188,7 +186,7 @@ body,
 
       .left {
         img {
-          height: 70vh;
+          width: 80%;
           margin-right: 50px;
         }
       }
